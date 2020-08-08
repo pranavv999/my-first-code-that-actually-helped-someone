@@ -1,0 +1,115 @@
+
+
+REPORT ID :BCOUT                               BANK OF MAHARASHTRA                                        RUN DATE : 31/07/2020
+
+                                                                                                                                    
+
+                                         OUTSTANDING BANKER'S CHEQUE ISSUED BY OUR BRANCH                 PROC DATE: 30/07/2020
+
+ISSUE BRANCH CODE: 00420                            BRANCH NAME: SANGAMNER                                PAGE NO. :     1
+
+------------------------------------------------------------------------------------------------------------------------------------
+    SR-NO             JOURNAL-DATE                  NAME OF  BENEFICIARY                   BC-NO              BC-AMOUNT
+------------------------------------------------------------------------------------------------------------------------------------
+        1             22/08/2008                     DOKHE                                      0                    201.00
+        2             22/08/2008                     NANGRE                                     0                    251.00
+        3             22/08/2008                     SHAIKH                                     0                    251.00
+        4             22/08/2008                     PATHAN                                     0                    251.00
+        5             22/08/2008                     SHAIKH                                     0                    251.00
+        6             23/09/2008                     DAHIYA                                     0                    357.00
+        7             16/10/2008                     SHAIKH                                     0                    320.00
+        8             16/10/2008                     SHAIKH                                     0                    320.00
+        9             22/05/2018                     DAHIYA                                347200                    363.00
+       10             30/06/2018                                                           347240                    278.00
+       11             04/08/2018                    SHEVARE VANDANA SANJAY                 347267                    374.00
+       12             22/11/2018                     DAHIYA                                347339                    363.00
+       13             30/12/2018                                                           347361                    278.00
+       14             08/01/2019                    GHULE ASMITA YO                        347371                    500.00
+       15             08/01/2019                    SAGAR SHANKAR DHOKARE                  347368                    500.00
+       16             08/01/2019                    ISHWARI JALINDAR SATPUTE               347364                    100.00
+       17             08/01/2019                    TASMIYA RAUF SHAIKH                    347377                    100.00
+       18             08/01/2019                    OM MAHENDRA MUTHA                      347369                    500.00
+       19             08/01/2019                    SAH MAHARSHI B S THORAT COLLEG         347379                  1,585.00
+       20             08/01/2019                    SURESH ANNAD RA                        347370                  2,000.00
+       21             08/01/2019                    IRAM AKIL PATHAN                       347375                    500.00
+       22             08/01/2019                    LOKHANDE SHIVA                         347367                    100.00
+       23             08/01/2019                    SHARU VITHAL SHELAKE                   347373                    500.00
+       24             08/01/2019                    SHAIKH ABUJAR ASIF                     347374                    500.00
+       25             08/01/2019                    SAH MAHARSHI B S THORAT COLLEG         347380                    350.00
+       26             08/01/2019                    TAI JALINDAR                           347372                    500.00
+       27             08/01/2019                    SURESH KUMAR KOLAM                     347376                    500.00
+       28             08/01/2019                    KOMAL VILASH GUNJAL                    347378                    100.00
+       29             08/01/2019                    HARSH SANTOSH P                        347365                    100.00
+       30             19/01/2019                    Mrs. RAJBI MAKBULKHAN PATHAN           347399                  1,200.00
+       31             19/01/2019                    TRIBAL BOYS HOSTEL                     347398                  1,000.00
+       32             18/02/2019                    EXECUTIVE ENGINEER P W D               347420                  5,000.00
+       33             18/02/2019                    EXECUTIVE ENGINEER P W D               347419                  5,000.00
+       34             18/02/2019                    EXECUTIVE ENGINEER P W D               347421                  6,500.00
+       35             02/03/2019                    EXECUTIVE ENGINEER PUBLIC WORK         347430                  6,500.00
+       36             25/03/2019                    Mr. SHAMRAO PANDURANG KSHIRSAG         347475                  1,120.52
+       37             25/03/2019                    Mr. SHAMRAO PANDURANG KSHIRSA          347474                    322.58
+       38             25/03/2019                    Mr. RAMRAO BABURAO SONAWANE            347472                    116.71
+       39             25/03/2019                    Mr. JAGANNATH SARUNATH SHINDE          347473                     20.71
+       40             25/03/2019                    Mr. SOMNATH THAKAJI GULAWE             347471                     17.43
+       41             25/03/2019                     THORAT RAMBHAU JAYVANT                347469                     10.00
+       42             25/03/2019                    Mr. BALKRUSHNA SAKHARAM MULE           347470                     30.26
+       43             25/03/2019                    Mr. JAMBUKAR JAGNNATH PANDU            347476                  2,487.16
+       44             31/03/2019                    PRATIKSHA K KALE                       347479                  4,000.00
+       45             04/04/2019                    SHRIRAM CITY UNION FINANCE LTD         347481                    500.00
+       46             22/05/2019                     DAHIYA                                347501                    363.00
+       47             12/06/2019                    SANGAMNER NAGARPARISHAD                347509                 54,803.00
+       48             30/06/2019                                                           347522                    278.00
+       49             19/07/2019                    SANJAY GAVARAM SONAWANE                347535                    685.00
+       50             19/07/2019                    SHAMRAO PANDURANG KSHIRSAGAR           347540                  1,322.00
+       51             19/07/2019                    SHUKALESHWAR MURALIDHAR SONAWA         347536                    713.00
+------------------------------------------------------------------------------------------------------------------------------------
+
+TOT.BC'S : 51                                                                                               1,04,282.37
+
+REPORT ID :BCOUT                               BANK OF MAHARASHTRA                                        RUN DATE : 31/07/2020
+
+                                                                                                                                    
+
+                                         OUTSTANDING BANKER'S CHEQUE ISSUED BY OUR BRANCH                 PROC DATE: 30/07/2020
+
+ISSUE BRANCH CODE: 00420                            BRANCH NAME: SANGAMNER                                PAGE NO. :     2
+
+------------------------------------------------------------------------------------------------------------------------------------
+    SR-NO             JOURNAL-DATE                  NAME OF  BENEFICIARY                   BC-NO              BC-AMOUNT
+------------------------------------------------------------------------------------------------------------------------------------
+       52             19/07/2019                    SABALE SANGITAA KASHINATH              347534                    499.00
+       53             19/07/2019                    CHAVHAN BHAGWAT MAHADU                 347529                    416.00
+       54             19/07/2019                    SHINDE BABASAHEB PANDHARINATH          347531                    322.00
+       55             19/07/2019                    SABALE SANGITA KASHINATH               347528                    416.00
+       56             19/07/2019                    RAMRAO BABURAO SONAWANE                347539                  1,247.00
+       57             19/07/2019                    JAMBUKAR JAGNNATH PANDU                347537                    898.00
+       58             19/07/2019                    THORAT RAMDAS TATYABA                  347532                    209.00
+       59             19/07/2019                    SUDHIR RAMNATH WAKCHOURE               347533                    386.00
+       60             19/07/2019                    THOSAR NIVRUTTI KASHINATH              347530                    499.00
+       61             19/07/2019                    DHANGUDE BAPPASAHEB AASARA             347538                    927.00
+       62             08/08/2019                    SARPANCH GRAMPANCHAYAT KASARE          347554                 11,000.00
+       63             13/08/2019                    SARPANCH GRAMPANCHAYAT RAJAPUR         347559                 10,000.00
+       64             13/08/2019                    SARPANCH GRAMPANCHAYAT RAJAPUR         347560                 10,000.00
+       65             16/08/2019                    SARPANCH GRAMPANCHAYAT DHANDER         347564                  8,800.00
+       66             16/08/2019                    SARPANCH GRAMPANCHAYAT DHANDER         347563                 17,600.00
+       67             30/08/2019                    SHAILA BHAUSAHEB WALAVE                347571                  1,320.00
+       68             30/08/2019                    AKSHADA SHIVAJI DIGHE                  347572                  1,185.00
+       69             12/09/2019                    SARPANCH GRAMPANCHAYAT                 347579                 20,000.00
+       70             17/09/2019                    SARPANCH GRAMPANCHAYAT NIMON           347583                  8,830.00
+       71             17/09/2019                    SARPANCH GRAMPANCHAYAT NIMON           347582                 17,660.00
+       72             27/09/2019                    Vishwas Changeo Dighe                  347598                     21.16
+       73             27/09/2019                    Vishwas Changeo Dighe                  347596                    786.00
+       74             27/09/2019                    Ramnath Sakharam Karwar                347597                  1,020.00
+       75             20/12/2019                    RUTUJA ELECTRICAL SERVICES             347638                 15,193.00
+       76             30/12/2019                                                           347642                    248.00
+       77             15/01/2020                    ADITI SAMBHAJI RAHATAL                 347649                    600.00
+       78             29/01/2020                    TAHSILDAR SANGAMNER                    347650                  1,122.00
+       79             30/06/2020                                                           347658                    248.00
+------------------------------------------------------------------------------------------------------------------------------------
+
+TOT.BC'S : 79                                                                                               2,35,734.53
+
+
+ CHECKED BY : NAME, SIGNATURE AND CODE NO.
+------------------------------------------------------------------------------------------------------------------------------------
+** END-OF-REPORT **
